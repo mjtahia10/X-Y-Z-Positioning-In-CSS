@@ -1,0 +1,9 @@
+.class{
+    text-decoration: double;
+    position: absolute;
+    text-transform: uppercase;
+}
+.image{
+    height: 200px;
+    width: 200px;
+}
